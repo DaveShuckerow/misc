@@ -1,2 +1,2 @@
 # Readme
-There's nothing to read.
+This readme intentially left blank.
